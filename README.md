@@ -8,6 +8,5 @@
     - create cnn for mnist
   - http://nbviewer.jupyter.org/github/ishikota/jupyter-notebook-shelf/blob/master/keras/mnist_input_scale.ipynb
     - experiment to examine why keras mnist sample divide input vector by 255
-
   - http://nbviewer.jupyter.org/github/ishikota/jupyter-notebook-shelf/blob/master/keras/visualize_mnist_weight.ipynb
     - visualize activation
