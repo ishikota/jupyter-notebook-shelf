@@ -1,14 +1,12 @@
 # jupyter-notebook-shelf
+- kaggle
+  - otto
+    - [random forest](http://nbviewer.jupyter.org/github/ishikota/jupyter-notebook-shelf/blob/master/kaggle/otto/otto_random_forest.ipynb), [xgboost](http://nbviewer.jupyter.org/github/ishikota/jupyter-notebook-shelf/blob/master/kaggle/otto/otto_xgboost.ipynb), [neuralnet (using keras)](http://nbviewer.jupyter.org/github/ishikota/jupyter-notebook-shelf/blob/master/kaggle/otto/otto_nn.ipynb)
+    - [Emsemble random forest, xgboost and neuralnet by model weighting](http://nbviewer.jupyter.org/github/ishikota/jupyter-notebook-shelf/blob/master/kaggle/otto/otto_emsemble_model_weighting.ipynb)
 - keras
-  - http://nbviewer.jupyter.org/github/ishikota/jupyter-notebook-shelf/blob/master/keras/sin_fitting.ipynb
-    - simple sin fitting by keras
-  - http://nbviewer.jupyter.org/github/ishikota/jupyter-notebook-shelf/blob/master/keras/compare_optimizer.ipynb
-    - compare various optimizers in its learning speed
-  - http://nbviewer.jupyter.org/github/ishikota/jupyter-notebook-shelf/blob/master/keras/mnist_cnn.ipynb
-    - create cnn for mnist
-  - http://nbviewer.jupyter.org/github/ishikota/jupyter-notebook-shelf/blob/master/keras/dropout_effect_on_sparcity/dropout_effect_on_sparcity.ipynb
-    - experiment to see effect of Dropout on sparcity
-  - http://nbviewer.jupyter.org/github/ishikota/jupyter-notebook-shelf/blob/master/keras/mnist_input_scale.ipynb
-    - experiment to examine why keras mnist sample divide input vector by 255
-  - http://nbviewer.jupyter.org/github/ishikota/jupyter-notebook-shelf/blob/master/keras/visualize_mnist_weight.ipynb
-    - visualize activation
+  - [experiment to see effect of Dropout on sparcity](http://nbviewer.jupyter.org/github/ishikota/jupyter-notebook-shelf/blob/master/keras/dropout_effect_on_sparcity/dropout_effect_on_sparcity.ipynb)
+  - [experiment to examine why keras mnist sample divide input vector by 255](http://nbviewer.jupyter.org/github/ishikota/jupyter-notebook-shelf/blob/master/keras/mnist_input_scale.ipynb)
+  - [simple sin fitting for tutorial] (http://nbviewer.jupyter.org/github/ishikota/jupyter-notebook-shelf/blob/master/keras/sin_fitting.ipynb)
+  - [compare various optimizers in its learning speed](http://nbviewer.jupyter.org/github/ishikota/jupyter-notebook-shelf/blob/master/keras/compare_optimizer.ipynb)
+  - [create cnn for mnist](http://nbviewer.jupyter.org/github/ishikota/jupyter-notebook-shelf/blob/master/keras/mnist_cnn.ipynb)
+  - [visualize activation trial](http://nbviewer.jupyter.org/github/ishikota/jupyter-notebook-shelf/blob/master/keras/visualize_mnist_weight.ipynb)
